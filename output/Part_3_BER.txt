@@ -1,0 +1,238 @@
+Eb/N0: 1
+Message: 00001
+Encoded message: 110110010100001
+Modulated message: -1 -1 1 -1 -1 1 1 -1 1 -1 1 1 1 1 -1 
+Noised signal: -1 -1 -1 -1 -1 -1 1 -1 -1 -1 1 1 1 1 -1 
+Demodulated message: 111111011100001
+Syndrome: 10 5 10 10 10 5 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 3
+Decoded message: 110110010100001
+Error: 0
+BER: 0
+
+Eb/N0: 1.5
+Message: 10101
+Encoded message: 111000100110101
+Modulated message: -1 -1 -1 1 1 1 -1 1 1 -1 -1 1 -1 1 -1 
+Noised signal: -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 
+Demodulated message: 111001111111101
+Syndrome: 5 10 12 5 0 9 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 4
+Decoded message: 111111111111111
+Error: 2
+BER: 0.4
+
+Eb/N0: 2
+Message: 10000
+Encoded message: 111011001010000
+Modulated message: -1 -1 -1 1 -1 -1 1 1 -1 1 -1 1 1 1 1 
+Noised signal: -1 -1 -1 1 -1 -1 1 1 -1 1 -1 -1 -1 -1 1 
+Demodulated message: 111011001011110
+Syndrome: 6 12 11 9 15 7 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 3
+Decoded message: 111011001010000
+Error: 0
+BER: 0
+
+Eb/N0: 2.5
+Message: 00111
+Encoded message: 011001010000111
+Modulated message: 1 -1 -1 1 1 -1 1 -1 1 1 1 1 -1 -1 -1 
+Noised signal: 1 -1 -1 1 1 -1 1 -1 -1 1 1 1 -1 -1 -1 
+Demodulated message: 011001011000111
+Syndrome: 8 1 9 2 10 3 
+error locator polynomial: 1
+error location's size: 1
+Real error num: 1
+Decoded message: 011001010000111
+Error: 0
+BER: 0
+
+Eb/N0: 3
+Message: 10100
+Encoded message: 001110110010100
+Modulated message: 1 1 -1 -1 -1 1 -1 -1 1 1 -1 1 -1 1 1 
+Noised signal: -1 -1 -1 -1 -1 1 -1 -1 -1 -1 -1 1 -1 1 1 
+Demodulated message: 111110111110100
+Syndrome: 6 12 6 9 0 12 
+error locator polynomial: 3
+error location's size: 0
+Real error num: 4
+Decoded message: 111110111110100
+Error: 0
+BER: 0
+
+Eb/N0: 3.5
+Message: 11101
+Encoded message: 100101000011101
+Modulated message: -1 1 1 -1 1 -1 1 1 1 1 -1 -1 -1 1 -1 
+Noised signal: -1 1 1 -1 1 -1 -1 1 -1 -1 -1 -1 -1 1 -1 
+Demodulated message: 100101101111101
+Syndrome: 4 8 13 1 10 11 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 3
+Decoded message: 100101000011101
+Error: 0
+BER: 0
+
+Eb/N0: 4
+Message: 00000
+Encoded message: 000000000000000
+Modulated message: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+Noised signal: -1 -1 1 1 1 -1 -1 1 -1 1 1 -1 1 -1 1 
+Demodulated message: 110001101001010
+Syndrome: 12 9 3 3 10 6 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 7
+Decoded message: 110001001101011
+Error: 3
+BER: 0.6
+
+Eb/N0: 4.5
+Message: 00111
+Encoded message: 011001010000111
+Modulated message: 1 -1 -1 1 1 -1 1 -1 1 1 1 1 -1 -1 -1 
+Noised signal: 1 -1 -1 1 1 -1 1 -1 1 1 -1 1 -1 -1 -1 
+Demodulated message: 011001010010111
+Syndrome: 10 5 0 10 5 0 
+error locator polynomial: 1
+error location's size: 1
+Real error num: 1
+Decoded message: 011001010000111
+Error: 0
+BER: 0
+
+Eb/N0: 5
+Message: 11011
+Encoded message: 001010000111011
+Modulated message: 1 1 -1 1 -1 1 1 1 1 -1 -1 -1 1 -1 -1 
+Noised signal: 1 1 -1 1 -1 -1 -1 -1 1 -1 -1 -1 -1 -1 -1 
+Demodulated message: 001011110111111
+Syndrome: 11 7 14 14 0 13 
+error locator polynomial: 3
+error location's size: 0
+Real error num: 4
+Decoded message: 001011110111111
+Error: 1
+BER: 0.2
+
+Eb/N0: 5.5
+Message: 01010
+Encoded message: 000111011001010
+Modulated message: 1 1 1 -1 -1 -1 1 -1 -1 1 1 -1 1 -1 1 
+Noised signal: 1 -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Demodulated message: 010111111111111
+Syndrome: 8 1 13 2 5 11 
+error locator polynomial: 2
+error location's size: 2
+Real error num: 6
+Decoded message: 111111111111111
+Error: 3
+BER: 0.6
+
+Eb/N0: 6
+Message: 11111
+Encoded message: 111111111111111
+Modulated message: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Noised signal: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Demodulated message: 111111111111111
+Syndrome: 15 15 15 15 15 15 
+error locator polynomial: 0
+error location's size: 0
+Real error num: 0
+Decoded message: 111111111111111
+Error: 0
+BER: 0
+
+Eb/N0: 6.5
+Message: 10100
+Encoded message: 001110110010100
+Modulated message: 1 1 -1 -1 -1 1 -1 -1 1 1 -1 1 -1 1 1 
+Noised signal: 1 -1 -1 -1 -1 -1 -1 -1 1 -1 -1 1 -1 -1 -1 
+Demodulated message: 011111110110111
+Syndrome: 9 3 4 6 0 8 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 5
+Decoded message: 111111111111111
+Error: 3
+BER: 0.6
+
+Eb/N0: 7
+Message: 01001
+Encoded message: 101011110001001
+Modulated message: -1 1 -1 1 -1 -1 -1 -1 1 1 1 -1 1 1 -1 
+Noised signal: -1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 -1 1 -1 -1 
+Demodulated message: 111111111011011
+Syndrome: 8 1 4 2 15 8 
+error locator polynomial: 2
+error location's size: 2
+Real error num: 5
+Decoded message: 111111111111111
+Error: 3
+BER: 0.6
+
+Eb/N0: 7.5
+Message: 11100
+Encoded message: 010011010111100
+Modulated message: 1 -1 1 1 -1 -1 1 -1 1 -1 -1 -1 -1 1 1 
+Noised signal: -1 -1 -1 1 -1 -1 1 -1 -1 -1 -1 -1 -1 1 -1 
+Demodulated message: 111011011111101
+Syndrome: 14 13 3 11 5 6 
+error locator polynomial: 3
+error location's size: 3
+Real error num: 4
+Decoded message: 111111111111111
+Error: 2
+BER: 0.4
+
+Eb/N0: 8
+Message: 10100
+Encoded message: 001110110010100
+Modulated message: 1 1 -1 -1 -1 1 -1 -1 1 1 -1 1 -1 1 1 
+Noised signal: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 1 1 
+Demodulated message: 101111111110100
+Syndrome: 3 6 8 12 15 1 
+error locator polynomial: 3
+error location's size: 0
+Real error num: 4
+Decoded message: 101111111110100
+Error: 0
+BER: 0
+
+Eb/N0: 8.5
+Message: 00110
+Encoded message: 101111000100110
+Modulated message: -1 1 -1 -1 -1 -1 1 1 1 -1 1 1 -1 -1 1 
+Noised signal: -1 -1 -1 -1 -1 -1 -1 1 -1 -1 -1 1 -1 -1 -1 
+Demodulated message: 111111101110111
+Syndrome: 8 1 2 2 0 4 
+error locator polynomial: 2
+error location's size: 2
+Real error num: 5
+Decoded message: 111111111111111
+Error: 3
+BER: 0.6
+
+Eb/N0: 9
+Message: 11111
+Encoded message: 111111111111111
+Modulated message: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Noised signal: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Demodulated message: 111111111111111
+Syndrome: 15 15 15 15 15 15 
+error locator polynomial: 0
+error location's size: 0
+Real error num: 0
+Decoded message: 111111111111111
+Error: 0
+BER: 0
+
